@@ -69,12 +69,12 @@ All test cases were executed manually using a web browser.
 
 | Metric               | Result |
 | -------------------- | ------ |
-| Total Test Cases     | 25     |
-| Passed               | 0      |
-| Failed               | 0      |
+| Total Test Cases     | 27     |
+| Passed               | 25      |
+| Failed               | 2      |
 | High Severity Bugs   | 0      |
 | Medium Severity Bugs | 0      |
-| Low Severity Bugs    | 0      |
+| Low Severity Bugs    | 2      |
 
 ---
 
